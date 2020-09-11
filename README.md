@@ -61,7 +61,7 @@ end
 
 A setter method is defined with an `=`, equals sign, appended to the name of the method. The `=` is followed by the `(argument_name)`. Now that we've defined our setter method on the Person class, we can change Kanye's name.
 
-> **Note**: The syntax highlighting in Learn may make it look like
+> **Note**: The syntax highlighting may make it look like
 > the `=` sign in `name=` is separate from the name of the definition,
 > but **it is not**. The `=` is a necessary piece. Adding it in allows 
 > us to write `kanye.name = "Yeezy"` but this is a bit of syntatic 

@@ -1,4 +1,4 @@
-# Object Attributes and Methods: A Deeper Dive
+# Object Attributes
 
 ## Objectives
 
